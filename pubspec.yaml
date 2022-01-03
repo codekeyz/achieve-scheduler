@@ -1,0 +1,15 @@
+name: achieve_scheduler
+description: Mini lib for scheduling UI tasks
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Graphql Code Generator Dependencies
+  dart_style: ">=2.0.0 <3.0.0"
+  collection: ^1.15.0
