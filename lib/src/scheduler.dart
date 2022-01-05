@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:achieve_scheduler/src/common.dart';
-import 'package:achieve_scheduler/src/constraints.dart';
+import 'package:scheduler/src/common.dart';
+import 'package:scheduler/src/constraints.dart';
 
 /// A scheduler that runs based on matched constraints.
 abstract class Scheduler {

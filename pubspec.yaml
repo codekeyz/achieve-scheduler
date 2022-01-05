@@ -1,4 +1,4 @@
-name: achieve_scheduler
+name: scheduler
 description: Mini lib for scheduling UI tasks
 version: 1.0.0
 publish_to: none

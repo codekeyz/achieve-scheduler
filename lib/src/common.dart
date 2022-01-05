@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:achieve_scheduler/achieve_scheduler.dart';
+import 'package:scheduler/scheduler.dart';
 
 enum SchedulerState { idle, busy }
 
